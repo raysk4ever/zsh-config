@@ -114,8 +114,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias adi-aie-old="~/Downloads/adi-aie"
-alias adi-aie=/Users/ravikant_singh/office/aie-cli-new/adi-aie
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 export PYENV_ROOT="$HOME/.pyenv"
